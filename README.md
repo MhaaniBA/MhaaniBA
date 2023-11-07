@@ -1,5 +1,5 @@
 <p align="center"><!--Credit: https://github.com/ari-hacks -->
-  <img  src="https://i.pinimg.com/564x/a4/c9/5e/a4c95e738f821301fe9ad54b0dc9bc91.jpg">
+  <img  src="https://i.pinimg.com/564x/ec/40/d2/ec40d2251a0753eb731b1851c04c96bb.jpg">
  
 	    
 </p>
@@ -12,13 +12,12 @@
 std::string name = "Musaitha Basheer";
 std::string personality_type = "ISFP";
 std::string career = "Cybersecurity";
-std::string patronus = "Thestral";
 std::string favorite_language = "Python";
 std::vector <std::string> languages = {"English (Native)", };
 std::vector <std::string> education_earning = {"BSE in Open University "};
-std::vector <std::string> accounting_background = {"Audit", "Risk", "Compliance"};
-std::vector <std::string> technical_background = {"Web", "Mobile", "Software", "Cyber", "Analytics", "Implementation", "IT Support"};
-std::vector <std::string> hobbies = {"Game", "Reading"};
+std::vector <std::string> accounting_background = {"Risk", "Compliance"};
+std::vector <std::string> technical_background = {"Web", "Mobile", "Software", "Cyber", "Analytics", "IT Support"};
+std::vector <std::string> hobbies = {"Reading"};
 ```
 
 ---
