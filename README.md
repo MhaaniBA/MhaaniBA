@@ -1,5 +1,5 @@
 <p align="center"><!--Credit: https://github.com/ari-hacks -->
-  <img  src="https://www.pinterest.com/pin/8655424279847341/">
+  
  
 	    
 </p>
@@ -11,12 +11,12 @@
 ```C++
 std::string name = "Musaitha Basheer";
 std::string personality_type = "ISFP";
-std::string career = "Cybersecurity";
+std::string career = "UI/UX Engineer";
 std::string favorite_language = "Python";
 std::vector <std::string> languages = {"English (Native)", };
 std::vector <std::string> education_earning = {"BSE in Open University "};
 std::vector <std::string> accounting_background = {"Risk", "Compliance"};
-std::vector <std::string> technical_background = {"Web", "Mobile", "Software", "Cyber", "Analytics", "IT Support"};
+std::vector <std::string> technical_background = {"Web", "Mobile", "Software", "Cyber", "Analytics", "IT Support" , "UI/UX"};
 std::vector <std::string> hobbies = {"Reading"};
 ```
 
